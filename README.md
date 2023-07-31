@@ -7,8 +7,8 @@ Installer lesd 3 extensions:
 - ESLint
 
 Installer prettier et les plugins eslint pour prettier
-`yarn add prettier eslint-config-prettier prettier-eslint --dev`
-`npm i prettier eslint-config-prettier prettier-eslint --save-dev`
+`yarn add prettier eslint-config-prettier eslint-plugin-prettier prettier-eslint --dev`
+`npm i prettier eslint-config-prettier eslint-plugin-prettier prettier-eslint --save-dev`
 
 Initialiser Eslint en cli `npx eslint --init`
 Questions:
